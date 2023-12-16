@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D17B0342B2D98DB00043E45 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D17B0332B2D98DB00043E45 /* GameView.swift */; };
 		4DA4E9162B2C9463007FA257 /* Suiga_MApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA4E9152B2C9463007FA257 /* Suiga_MApp.swift */; };
 		4DA4E9182B2C9463007FA257 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DA4E9172B2C9463007FA257 /* ContentView.swift */; };
 		4DA4E91A2B2C9464007FA257 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DA4E9192B2C9464007FA257 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D17B0332B2D98DB00043E45 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		4DA4E9122B2C9463007FA257 /* Suiga M.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Suiga M.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DA4E9152B2C9463007FA257 /* Suiga_MApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suiga_MApp.swift; sourceTree = "<group>"; };
 		4DA4E9172B2C9463007FA257 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				4DA4E9172B2C9463007FA257 /* ContentView.swift */,
 				4DA4E9192B2C9464007FA257 /* Assets.xcassets */,
 				4DA4E91B2B2C9464007FA257 /* Preview Content */,
+				4D17B0332B2D98DB00043E45 /* GameView.swift */,
 			);
 			path = "Suiga M";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DA4E9182B2C9463007FA257 /* ContentView.swift in Sources */,
+				4D17B0342B2D98DB00043E45 /* GameView.swift in Sources */,
 				4DA4E9162B2C9463007FA257 /* Suiga_MApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
